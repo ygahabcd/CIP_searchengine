@@ -1,0 +1,31 @@
+Please write your response to the reflective ethics question here.
+
+Question 1: Brin and Page were worried that search companies that were paid by advertisers would be inclined to modify
+their ranking of results to give more favorable treatment to those advertisers. From an ethical perspective, why might
+this be an issue? What approach (at a high-level) might you suggest to address this concern?
+
+         This is an issue. Because if the companies which paid to search company is bad companies, other people maybe been
+     misled by the search result and some truth will be hided.For example, one hospital with poor skills was appeared
+     at the first place of ranking after paid to search. Many people will go this hospital, this hospital will make more
+     money.But due to lacking of skills and experiences, many people will not get good treatment.Maybe some people will dead.
+     Advertising is the big part of incoming of commercial search company. Government should make some to constraint them.
+     For example,before sign contract with advertiser, search company should obey the laws, if the advertiser have any
+     cheat behaviour or something against laws,search company should refuse to sign the contract. And after signed contract
+     with advertisers, search company still need to monitor the advertisers.
+
+
+
+
+Question 2: Bias towards advertisers is not the only potential problem with search results, however. Companies may also
+ make decisions about their search engine in order to:
+Prefer "friendly" companies over competitors
+Offer multiple perspectives
+Display "high quality" results (this is a normative term, "high quality" is subjective)
+Show content that's "relevant" to the user (again, a normative term)
+Provide transparency about how results are ranked
+Which goals do you think are most important when developing a search engine, and why? How could you address these goals
+in your Bajillion search engine?
+
+           I think the best way is offer multiple perspectives.We can offer some choices to sort the search result.
+     First, sort by recommended, this is a default sort.Second,sort by time.Third, sort by matching. Give more choices
+     to users to find what they want, and so leave some space to search company to get contract from advertisers.
